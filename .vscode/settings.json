@@ -1,0 +1,12 @@
+{
+    "files.associations": {
+    
+        "Dockerfile*": "dockerfile",
+        "iris.script": "objectscript"
+      },
+    "docker.commands.attach": null,
+    "debug.javascript.terminalOptions": {
+    
+    }
+
+}

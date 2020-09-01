@@ -1,0 +1,29 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+
+	"settings": {
+		"files.associations": {
+			"Dockerfile*": "dockerfile",
+			"iris.script": "objectscript"
+		},
+		"debug.javascript.terminalOptions": {},
+		"objectscript.debug": {
+			"debugThisMethod": true
+		},
+		"objectscript.conn": {
+			"active": true,
+			"host": "127.0.0.1",
+			"port": 62773,
+			"username": "_SYSTEM",
+			"password": "Roche",
+			"ns": "USER",
+			"https": false
+		},
+		"objectscript.export.folder": "src", 
+        "objectscript.serverSideEditing": false
+    }
+}
